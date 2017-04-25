@@ -14,6 +14,7 @@
 		B6F263961EAF99630062C27A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6F263941EAF99630062C27A /* LaunchScreen.storyboard */; };
 		B6F263A11EAF99630062C27A /* Fibonacci_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F263A01EAF99630062C27A /* Fibonacci_AppTests.swift */; };
 		B6F263AC1EAF99630062C27A /* Fibonacci_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F263AB1EAF99630062C27A /* Fibonacci_AppUITests.swift */; };
+		B6F263BA1EAF99FB0062C27A /* fibonnaci.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F263B91EAF99FB0062C27A /* fibonnaci.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B6F263A71EAF99630062C27A /* Fibonacci_AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Fibonacci_AppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6F263AB1EAF99630062C27A /* Fibonacci_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fibonacci_AppUITests.swift; sourceTree = "<group>"; };
 		B6F263AD1EAF99630062C27A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6F263B91EAF99FB0062C27A /* fibonnaci.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fibonnaci.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B6F2638B1EAF99630062C27A /* AppDelegate.swift */,
 				B6F2638D1EAF99630062C27A /* ViewController.swift */,
 				B6F2638F1EAF99630062C27A /* Main.storyboard */,
+				B6F263B91EAF99FB0062C27A /* fibonnaci.swift */,
 				B6F263921EAF99630062C27A /* Assets.xcassets */,
 				B6F263941EAF99630062C27A /* LaunchScreen.storyboard */,
 				B6F263971EAF99630062C27A /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B6F2638E1EAF99630062C27A /* ViewController.swift in Sources */,
+				B6F263BA1EAF99FB0062C27A /* fibonnaci.swift in Sources */,
 				B6F2638C1EAF99630062C27A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
